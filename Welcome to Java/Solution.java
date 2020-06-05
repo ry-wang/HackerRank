@@ -3,10 +3,9 @@
 
 public class Solution {
     
-    public static void main(String[] args) {
+    public static void main(String[] args) {      //main method
         
-        System.out.println("Hello World.");
-        System.out.println("Hello Java.");
+        System.out.println("Hello World of Java.");     //Writing using println method in output
     }
     
 }
